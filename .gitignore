@@ -1,0 +1,49 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian config local (varía por usuario/máquina)
+Boveda/.obsidian/workspace.json
+Boveda/.obsidian/workspace-mobile.json
+Boveda/.obsidian/cache
+Boveda/.trash/
+
+# Claude Code config local (puede tener permisos/tokens personales)
+.claude/settings.local.json
+.claude/cache/
+
+# Archivos de onboarding (pueden contener datos personales)
+Boveda/onboarding-data/*
+!Boveda/onboarding-data/README.md
+
+# Credenciales y secretos
+.env
+.env.*
+*.key
+*.pem
+**/token*.txt
+**/*_secret*.txt
+**/*password*
+
+# Multimedia pesada (si el usuario mete fotos/vídeos grandes)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.psd
+*.zip
+*.rar
+*.7z
+
+# Assets multimedia del propio usuario (opcional, puede quitar esta línea si quiere sync)
+Boveda/assets/multimedia/
+
+# Node / dev (si el usuario añade scripts)
+node_modules/
+*.log
+.cache/
+dist/
+build/
