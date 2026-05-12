@@ -14,7 +14,9 @@ tags:
   - blog
   - hotmart
   - estrategia
+  - baja-exposicion
 estado: por-procesar
+interes-usuario: alto — encaja con preferencia explícita por estrategias de baja exposición (sin cara, sin seguidores previos)
 ---
 
 # Marketing de Afiliados — Estrategia "Partner Digital" (Fabio Serna)
@@ -129,7 +131,18 @@ Masterclass en YouTube → embudo a curso/mentoría privada de Fabio Serna (link
 - [[Triángulo del buen producto]] → checklist en `Research/` para evaluar infoproductos antes de promocionarlos.
 - Caso práctico Instagram + Blog → si decides arrancar, crear proyecto en `Proyectos/afiliacion/` con checklist accionable.
 
+## Por qué interesa al usuario
+
+Marcado explícitamente: **encaja con preferencia por estrategias de baja exposición** — el vídeo vende justo eso (sin mostrar la cara, sin seguidores previos, cuentas nicho con material de stock). Los canales que más casan con esa preferencia, en este orden:
+
+1. **Blog SEO** — exposición prácticamente nula, ritmo propio.
+2. **Instagram nicho con stock** — sin cara, identidad de marca pero no personal.
+3. **WhatsApp** — solo a círculo cercano, ingreso modesto pero cero exposición pública.
+
+YouTube queda al final: aunque Fabio lo vende como "feo y funciona", sigue requiriendo voz/identidad.
+
 ## Pendiente de decidir
 
 - ¿Lo guardamos solo como referencia (Research) o lo convertimos en proyecto activo?
 - ¿Interesa extraer los dos frameworks (5 niveles + triángulo) como notas independientes y enlazarlas desde aquí?
+- ¿Profundizamos en el camino blog SEO + Instagram nicho como combinación de mínima exposición?
